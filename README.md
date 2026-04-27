@@ -89,7 +89,7 @@ graph LR
     end
 
     subgraph AI["🤖 AI Services"]
-        Gemini[Gemini API]
+        Grok[Grok API]
     end
 
     subgraph Local["📦 Local"]
@@ -147,7 +147,7 @@ maintainiq/
 │   ├── services/
 │   │   ├── auth_service.dart
 │   │   ├── firestore_service.dart
-│   │   ├── gemini_service.dart
+│   │   ├── grok_service.dart
 │   │   ├── cost_calculator.dart
 │   │   ├── notification_service.dart
 │   │   └── pdf_service.dart
@@ -191,7 +191,7 @@ flutter pub get
 **4. Add API Key:**
 ```dart
 // lib/constants/strings.dart
-static const geminiApiKey = 'YOUR_GEMINI_API_KEY';
+static const geminiApiKey = 'YOUR_Grok_API_KEY';
 ```
 
 **5. Run:**
