@@ -33,7 +33,7 @@ This SQA document covers functional and non-functional testing of the MaintainIQ
 | **Functional Testing** | Verify each feature works as per requirements |
 | **Black Box Testing** | Test app as end-user without knowledge of internal code |
 | **Integration Testing** | Test Flutter with Firebase, Grok AI, and PDF services together |
-| **UI/UX Testing** | Verify glassmorphism UI is consistent and responsive across devices |
+| **UI/UX Testing** | Verify Purple theme UI is consistent and responsive across devices |
 | **Regression Testing** | Re-test after bug fixes to ensure no new issues introduced |
 
 ### 1.4 Modules Under Test
